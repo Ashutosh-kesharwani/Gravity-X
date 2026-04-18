@@ -10,6 +10,7 @@
 
 GravityX is built **by developers, for developers** with the goal of simplifying the developer journey. Instead of switching between multiple platforms, users can explore, learn, build, and grow — all within a single environment.
 
+
 It acts as a **global developer hub** where users can:
 
 * Discover opportunities
