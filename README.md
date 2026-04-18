@@ -1,7 +1,3 @@
-Here’s a clean, **professional README.md** you can directly use for your project 👇
-
----
-
 # 🚀 GravityX — One Platform for Every Developer
 
 **GravityX** is a unified developer ecosystem designed to bring everything a developer needs into one place — from opportunities to learning resources and career growth tools.
