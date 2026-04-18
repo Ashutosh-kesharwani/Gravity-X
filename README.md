@@ -136,8 +136,3 @@ GravityX is more than just a project — it’s an attempt to **streamline the d
 
 ---
 
-If you want, I can also:
-
-* Add **GitHub badges (stars, forks, etc.)**
-* Convert this into a **resume-ready project description**
-* Or make a **short 30-sec interview pitch version** 🔥
